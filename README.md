@@ -15,6 +15,8 @@
 <br>
 
 <a href="https://github.com/jumaevakbar16"><img src="https://img.shields.io/badge/GitHub-jumaevakbar16-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://t.me/js_0770"><img src="https://img.shields.io/badge/Telegram-js__0770-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="mailto:jumaevakbar16@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="#top"><img src="https://komarev.com/ghpvc/?username=jumaevakbar16&label=PROFILE+VIEWS&color=1D4ED8&style=for-the-badge" alt="Views" /></a>
 
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" alt="divider" />
@@ -22,6 +24,8 @@
 </div>
 
 ## 💻 About Me
+
+<img align="right" width="38%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding" />
 
 ```csharp
 public sealed class Developer
@@ -48,22 +52,28 @@ public sealed class Developer
 - 🔐 Реализую **JWT** аутентификацию и авторизацию
 - 🌱 Изучаю **Clean Architecture, Docker, unit-тестирование**
 
+<br clear="right" />
+
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" alt="divider" />
 
 ## 🧰 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,git,github,vscode&theme=dark" height="48" alt="stack" />
-
-<br><br>
-
+#### Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark" height="48" alt="lang" />
 <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="aspnet" />
 <img src="https://img.shields.io/badge/EF_Core-6D28D9?style=for-the-badge&logo=nuget&logoColor=white" alt="efcore" />
 <img src="https://img.shields.io/badge/JWT-111827?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="jwt" />
 
-<br><br>
+#### Databases & Real-time
+<img src="https://skillicons.dev/icons?i=postgres,redis&theme=dark" height="48" alt="db" />
+<img src="https://img.shields.io/badge/SignalR-0284C7?style=for-the-badge&logo=dotnet&logoColor=white" alt="signalr" />
 
+#### Tools & DevOps
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,visualstudio,linux&theme=dark" height="48" alt="tools" />
+
+#### Learning
 <img src="https://img.shields.io/badge/Docker-Learning-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="l-docker" />
 <img src="https://img.shields.io/badge/Clean_Architecture-Learning-7C3AED?style=for-the-badge" alt="l-clean" />
 <img src="https://img.shields.io/badge/Testing-xUnit-16A34A?style=for-the-badge&logo=dotnet&logoColor=white" alt="l-test" />
@@ -91,6 +101,7 @@ public sealed class Developer
 
 <div align="center">
 
+<!-- Работает только после настройки workflow (см. .github/workflows/snake.yml) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jumaevakbar16/jumaevakbar16/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jumaevakbar16/jumaevakbar16/output/github-contribution-grid-snake.svg" />
@@ -107,6 +118,8 @@ public sealed class Developer
 
 Открыт к стажировкам и вакансиям **Junior .NET Backend Developer**
 
+<a href="https://t.me/js_0770"><img src="https://img.shields.io/badge/TELEGRAM-js__0770-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="tg" /></a>
+<a href="mailto:jumaevakbar16@gmail.com"><img src="https://img.shields.io/badge/GMAIL-Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="mail" /></a>
 <a href="https://github.com/jumaevakbar16"><img src="https://img.shields.io/badge/GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="gh" /></a>
 
 <br><br>
